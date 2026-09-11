@@ -1,0 +1,20 @@
+baseURL = "https://yuaner.github.io/"
+languageCode = "zh-cn"
+title = "Yuaner's Blog"
+theme = "PaperMod"
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[pagination]
+pagerSize = 10
+
+[params]
+author = "Yuaner"
+description = "嵌入式软件工程师的技术学习与工程实践记录"
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowWordCount = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
